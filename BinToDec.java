@@ -1,5 +1,5 @@
 // binary to decimal
-class GFG {
+class BinToDec {
     static int binaryToDecimal(int n)
     {
         int num = n;
@@ -22,7 +22,6 @@ class GFG {
         return dec_value;
     }
  
-    // Driver Code
     public static void main(String[] args)
     {
         int num = 10101001;
